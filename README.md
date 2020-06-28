@@ -6,7 +6,7 @@
 <b> DS3231 RCT: τιμές σε LCD I2C και στη σειριακή οθόνη IDE για έλεγχο </b>
 <br> κώδικας: DS3231.Serial.lcd.i2c.ino, καλωδιώσεις: DS3231.Serial.lcd.i2c.jpg
 2. <b> SS49E Hall Sensor και Module: Gaussmeter, στη σειριακή IDE και σε LCD I2C  </b> <br>
-κώδικας: hall.A0.gauss.SS49E_serial.LCD.I2C.ino, 
-καλωδιώσεις: hall.A0.gauss.SS49E.module_serial.LCD.I2C.jpg 
+κώδικας: hall.A0.gauss.SS49E_serial.LCD.I2C.ino, <br>
+καλωδιώσεις: hall.A0.gauss.SS49E.module_serial.LCD.I2C.jpg <br>
 και η όμορφη αναπαράσταση των μετρήσεων στη σειριακή IDE: hall.A0.gauss.SS49E_serial.LCD.I2C.IDE.jpg
 <br>
